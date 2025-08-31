@@ -1,6 +1,6 @@
 # Hero-cafe
 وبسایت معرفی کافه طراحی‌شده با HTML5 و CSS3
-##بخش‌ها
+خش‌ها :
 نوار ناوبری (Navigation bar)
 
 بخش معرفی (Hero section)
